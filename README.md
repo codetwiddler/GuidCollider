@@ -1,4 +1,4 @@
-# GuidCollider
+# Guid Collider
 
 My own silly form of CPU stress testing
 
